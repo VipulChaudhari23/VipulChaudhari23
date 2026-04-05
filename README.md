@@ -85,7 +85,7 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy building scalable systems and solving complex real-world problems 🚀
+I enjoy building scalable systems and solving complex real-world problems. 🚀
 
 ---
 
